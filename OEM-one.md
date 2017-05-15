@@ -5,7 +5,8 @@ A First Level Header
 
 1. [Overview](#overview)
 2. [Section 1](#section1)
-3. Section 2
+3. [Section 2](#section2)
+4. [Section 3](#section3)
 
 A Second Level Header
 ---------------------
@@ -27,6 +28,7 @@ This is a block of code:
 * One
 * Two
 * Three
+* Four
 
 Use the `printf()` function.
 
@@ -60,3 +62,7 @@ I strongly recommend against using any `<blink>` tags.
 
 I wish SmartyPants used named entities like `&mdash;`
 instead of decimal-encoded entites like `&#8212;`.
+
+### Section 3
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
